@@ -23,5 +23,6 @@ public class L1Ejercicio5 {
         System.out.println("RESULTADO: ");
         System.out.println(numero1 + " X "+numero2+" = "+multiplicacion);               
     }
-}
+} 
+
 
